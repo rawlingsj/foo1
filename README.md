@@ -31,6 +31,8 @@ Jenkins X likes to use GitOps to manage the lifecycle of both infrastructure and
 gcloud auth application-default login
 ```
 
+
+
 # Git repositories
 
 We use 2 git repositories:
